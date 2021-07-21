@@ -65,9 +65,9 @@ const Cover = styled.div`
     #141e30
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   clip-path: polygon(0 0, 100% 0, 100% 150%, 0% 70%);
-  @media (max-width: 290px) {
-    clip-path: none;
-  }
+  // @media (max-width: 290px) {
+  //   clip-path: none;
+  // }
 `
 
 const TextBox = styled(Container)`

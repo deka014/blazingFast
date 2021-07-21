@@ -86,7 +86,7 @@ const Section = styled.div`
 const TextBox = styled.div`
   // background-color : yellow;
   margin: 4em 0;
-  z-index: +12;
+  // z-index: +12;
   position: relative;
   // max-width : 50vw;
   // display : flex;
