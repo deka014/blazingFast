@@ -17,7 +17,7 @@ let projDetails = [
     title: 'ML Disease Detection',
     image: './images/healthai.jpg',
     about:
-      'Health AI is an integrated platform for multipurpose assistance in the field of healthcare. The idea is to build a platform that provides facilities like disease predictions based on symptoms or images. ',
+      'Health AI is an integrated platform for multipurpose assistance in the field of healthcare. The idea of this project is to build a platform that provides facilities like disease predictions based on symptoms or images. ',
     github: 'https://github.com/deka014/healthAi',
     // demo: 'www',
   },
@@ -44,7 +44,7 @@ function Projects() {
         <Box component='div' mt={9} mx='2rem'>
           <Grid
             container
-            justifyContent
+            // justifyContent
             spacing={3}
             justifyContent='space-evenly'
           >
