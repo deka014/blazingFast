@@ -11,13 +11,13 @@ let projDetails = [
     about:
       'ML5-Object-Detector on COCO model was used for Object detection with Maps API. It was tested on several images from google to detect and frame the objects classes and return an array with a label and confidence. ',
     github: 'https://github.com/bbhupen/RTDS',
-    demo: 'https://assaminnovate.herokuapp.com/',
+    // demo: 'https://assaminnovate.herokuapp.com/',
   },
   {
     title: 'ML Disease Detection',
     image: './images/healthai.jpg',
     about:
-      'Health AI is an integrated platform for multipurpose assistance in the field of healthcare. The idea of this project is to build a platform that provides facilities like disease predictions based on symptoms or images. ',
+      'Health AI is an integrated platform for multipurpose assistance in the field of healthcare. The idea of this project is to build a platform that provides facilities like disease predictions based on symptoms or images and give the users easy diagnosis. ',
     github: 'https://github.com/deka014/healthAi',
     // demo: 'www',
   },
@@ -25,7 +25,7 @@ let projDetails = [
     title: 'AWS Hosted Dynamic Blog',
     image: './images/frappeco.png',
     about:
-      'Frappeco is a dynamic blog website hosted on AWS EC2 linux instance. It uses mongoDB as database and has login interace with email authentication , hashed passwords and rolling database stored cookies.   ',
+      'Frappeco is a dynamic blog website hosted on AWS EC2 linux instance. It uses mongoDB as database and has login interace with email authentication , hashed passwords and rolling database stored cookies. It follows MVC architecture and uses EJS as templating engine.',
     // github: 'www',
     demo: 'https://frappeco.com/',
   },

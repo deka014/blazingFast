@@ -23,14 +23,10 @@ function About() {
         <Fade bottom>
           <Container maxWidth='md'>
             <p Style={'margin : 4em 0 ; font-weight:500 ; line-height : 2em;'}>
-              I am a Computer Science Engineering Student with interest in
-              web-development , ML and IOT . My current work stacks are MERN ,
-              Tensorflow , Javascript and Python. I first started my coding
-              journey with web but as i dived deep into different programming
-              languages and their libraries and frameworks , my focus inclined
-              more on open-sourcing , developing applications , API's and
-              Machine Learning models which can be integrated onto browsers as
-              interface while solving real life problems.
+            I am software engineer with more than 1 year experience in FullStack development, I can build applications using Java, Spring Boot, Node.js, SQL, MongoDB, React while following microservices architectures/patters.
+
+I thrive on solving problems, whether it’s optimizing system performance, enhancing security, or streamlining workflows through automation. My projects have spanned diverse domains, including payroll systems, expense management platforms, and machine learning-based applications, reflecting my commitment to continuous learning and adaptability.
+
             </p>
           </Container>
           <Grid

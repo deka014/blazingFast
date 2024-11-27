@@ -24,9 +24,9 @@ function Contact() {
         >
           <RightButton
             as='a'
-            href='https://drive.google.com/file/d/1Ib-t-6GE6aep4eOmL8f_hOC-uNBXH92f/view?usp=sharing'
+            href='https://leetcode.com/u/DeepjyotiD/'
           >
-            <IoMdDocument style={{ marginRight: '10px' }}></IoMdDocument>Resume
+            <IoMdDocument style={{ marginRight: '10px' }}></IoMdDocument>LeetCode
           </RightButton>
           <LeftButton as='a' href='mailto:deepjyotideka8@gmail.com'>
             <SiGmail style={{ marginRight: '10px' }}></SiGmail>Gmail
@@ -41,8 +41,8 @@ function Contact() {
           <LeftButton as='a' href='https://www.instagram.com/node.deepjyoti/'>
             <SiInstagram style={{ marginRight: '10px' }}></SiInstagram>Instagram
           </LeftButton>
-          <RightButton as='a' href='https://slack.com/'>
-            <SiSlack style={{ marginRight: '10px' }}></SiSlack>Slack
+          <RightButton as='a' href='https://medium.com/@deepjyotideka8'>
+            <SiSlack style={{ marginRight: '10px' }}></SiSlack>Medium
           </RightButton>
         </Box>
       </Fade>

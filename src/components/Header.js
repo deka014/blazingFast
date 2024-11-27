@@ -19,8 +19,8 @@ function Header() {
         <a href='#about'>About</a>
         <a href='#projects'>Projects</a>
         <a href='#contact'>Contact</a>
-        <a href='https://drive.google.com/file/d/1Ib-t-6GE6aep4eOmL8f_hOC-uNBXH92f/view?usp=sharing'>
-          Resume
+        <a href='https://www.linkedin.com/in/deepjyoti-deka-750816158/'>
+          Linkedin
         </a>
       </Menu>
       <RightMenu>
@@ -44,8 +44,8 @@ function Header() {
           <a href='#contact'>Contact</a>
         </li>
         <li>
-          <a href='https://drive.google.com/file/d/1Ib-t-6GE6aep4eOmL8f_hOC-uNBXH92f/view?usp=sharing'>
-            Resume
+          <a href='https://www.linkedin.com/in/deepjyoti-deka-750816158/'>
+            Linkedin
           </a>
         </li>
       </BurgerNav>

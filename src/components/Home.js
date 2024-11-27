@@ -31,7 +31,7 @@ function Home() {
     <Cover id='home'>
       <TextBox>
         <h1>
-          Hello, my name is {''}
+          Welcome, my name is {''}
           <span ref={el} Style='color: red ;'></span>
         </h1>
       </TextBox>
